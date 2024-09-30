@@ -1,0 +1,20 @@
+{
+  "name": "TextBoxEditable",
+  "description": "A multi-line textbox for observations.",
+  "data": {
+    "dimensions": [],
+    "metrics": []
+  },
+  "style": {
+    "default": {
+      "fontFamily": "Roboto",
+      "fontSize": 12,
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#CCCCCC",
+      "borderWidth": 1
+    }
+  },
+  "scripts": {
+    "main": "main.js"
+  }
+}
